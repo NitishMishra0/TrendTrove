@@ -1,5 +1,5 @@
 import './App.css';
-import Navigation from './customers/components/Navigation/Navigation';
+import Navigation from './customers/components/Navigation/Navigation.jsx';
 import HomePage from './customers/pages/HomePage/HomePage';
 
 
